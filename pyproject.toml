@@ -1,0 +1,14 @@
+[project]
+name = "hannibalpack"
+description = "This node improves the merging of LoRA for movements and physical resemblance when adding multiple LoRA to a model."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/HannibalP/comfyui-HannibalPack"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-HannibalPack"
+Icon = ""
